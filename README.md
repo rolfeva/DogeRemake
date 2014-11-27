@@ -3,4 +3,4 @@ DogeRemake
 
 Doge needs remake. We need doge.
 
-Doge on the run
+GHB showers, GHB showers, rohypnol i drinken ger mig super powers
