@@ -1,0 +1,23 @@
+
+
+body {
+	cursor: url(../img/cursor-tass2.png), auto;
+}
+
+.main-wrap {
+	
+}
+
+.container .jumbotron {
+	border-radius: 0px;
+}
+
+.jumbotron {
+	margin-bottom: 0;
+	background-image: url(../img/background/header.png);
+	background-size: cover;
+}
+
+.navbar {
+	border-radius: 0px;
+}
