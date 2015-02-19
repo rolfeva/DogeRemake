@@ -1,11 +1,11 @@
 
 
 body {
-	cursor: url(../img/cursor-tass2.png), auto;
+
 }
 
 .main-wrap {
-	
+	background: white;
 }
 
 .container .jumbotron {
