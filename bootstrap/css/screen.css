@@ -6,7 +6,6 @@ body {
 
 .main-wrap {
 	background: white;
-	border: 1px solid gray;
 }
 
 .container .jumbotron {
@@ -21,14 +20,4 @@ body {
 
 .navbar {
 	border-radius: 0px;
-	margin-bottom: 0px;
-}
-
-.sidomeny {
-	border-left: 1px solid gray;
-}
-
-footer {
-	border-top: 4px solid gray;
-	text-align: center;
 }
