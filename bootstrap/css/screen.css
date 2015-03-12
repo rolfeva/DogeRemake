@@ -21,3 +21,7 @@ body {
 .navbar {
 	border-radius: 0px;
 }
+
+.footer { 
+    display: inline;
+	}
