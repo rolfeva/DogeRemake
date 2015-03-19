@@ -22,6 +22,15 @@ body {
 	border-radius: 0px;
 }
 
-.footer { 
-    display: inline;
-	}
+.footer {
+  color: grey;
+  clear: both;
+  margin: 0em 0em 0em 0em;
+  padding: 0.75em 0.75em;
+  background: #DDDDDD;
+  position: relative;
+  top: 490px;
+  border-top: 1px solid #000;
+  margin-bottom:20px;
+}
+}
