@@ -1,0 +1,45 @@
+/**
+ * This file should get overwritten if Method 1 is used. If Method 2 is chosen,
+ * remove this comment and start adding your styles to this file.
+ */
+
+ body {
+	background: url("../img/fresh_snow.png");
+ }
+
+.navbar {
+	padding-top: 150px;
+	background: url("../img/doge-header.png");
+	background-size: cover;
+	border: none;
+	border-radius: 10px;
+}
+
+.navbar-brand{
+	font-size: 1.4em;
+}
+
+.navbar .container a{
+	color: white;
+}
+
+.navbar-default .navbar-nav > li > a {
+	color: white;
+	font-size: 1.1em;
+	font-weight: bold;
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+	background: url("../img/fresh_snow.png");
+	border-radius: 10px 10px 0 0;
+}
+
+.map {
+	float: left;
+	width: 50%;
+}
+
+.vagbeskrivning {
+	float: left;
+	width: 50%;
+}
